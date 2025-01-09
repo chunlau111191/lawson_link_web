@@ -1,7 +1,7 @@
-import express from "express";
-import { Request, Response } from "express";
+const express = require("express");
 
 const app = express();
+
 
 
 // set up a route to respond to GET requests to the root URL　main.html
